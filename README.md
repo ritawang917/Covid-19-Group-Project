@@ -10,6 +10,10 @@
 
 Square: Rita; Triangle: Julia; Circle: Sharmin
 
+## Communication Protocal
+
+  [Slack](https://slack.com/)
+
 ## Reason why they selected their topic
 
   We selected the topic of COVID-19, because we are currently in a situtation where there are still relatively high numbers of people with COVID-19.
