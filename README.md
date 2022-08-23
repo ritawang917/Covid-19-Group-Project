@@ -4,6 +4,10 @@ Group Project with Covid-19 Dataset
 ## Selected Topic
 
   COVID-19
+  
+## Roles 
+
+Square: Rita; Triangle: Julia; Circle: Sharmin
 
 ## Reason why they selected their topic
 
