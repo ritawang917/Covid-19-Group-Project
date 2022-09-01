@@ -8,7 +8,11 @@
   
 ## Roles 
 
-Square: Rita; Triangle: Julia; Circle: Sharmin
+Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
+
+## Communication Protocal
+
+  [Slack](https://slack.com/)
 
 ## Reason why they selected their topic
 
