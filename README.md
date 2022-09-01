@@ -13,6 +13,7 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
 ## Communication Protocal
 
   [Slack](https://slack.com/)
+  ![Screenshot of Communication]()
 
 ## Reason why they selected their topic
 
