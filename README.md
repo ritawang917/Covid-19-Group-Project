@@ -13,7 +13,7 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
 ## Communication Protocal
 
   [Slack](https://slack.com/)
-  ![Screenshot of Communication]()
+  ![Screenshot of Communication](https://github.com/ritawang917/Covid-19-/blob/Rita/Communication.png)
 
 ## Reason why they selected their topic
 
