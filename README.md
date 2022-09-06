@@ -32,3 +32,5 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
   By analyzing the data can we predict the trend of people testing positive in NYC?
 
   By analyzing the data from hospitalization and death rates compared to the tested positive for COVID-19, has the virus appeared to cause a more severe affect on the community?
+  
+  Did the time of vaccination correlate with the number of deaths in the hospital due to COVID-19?
