@@ -13,8 +13,11 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
 ## Communication Protocal
 
   Zoom classes (7-9pm)
+  
   [Slack](https://slack.com/)
   ![Screenshot of Communication](https://github.com/ritawang917/Covid-19-/blob/Rita/Slack%20Communication.png)
+  
+  Google Slides and Email
 
 ## Reason why they selected their topic
 
