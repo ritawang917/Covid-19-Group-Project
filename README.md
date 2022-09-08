@@ -37,10 +37,10 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
   
 ## Machine Learning Model
   
-  **Description of preliminary data; preprocessing ✓ Description of preliminary feature engineering and preliminary feature; selection, including their decision-making process; Description of how data was split into training and testing sets; Explanation of model choice, including limitations and benefits** 
+  _Description of preliminary data; preprocessing ✓ Description of preliminary feature engineering and preliminary feature; selection, including their decision-making process; Description of how data was split into training and testing sets; Explanation of model choice, including limitations and benefits_
   
 ## Dashboard
 
   Tableau will be used as the main dashboard of the data analysis.
   
-  **Description of interactive element(s)**  
+  _Description of interactive element(s)_
