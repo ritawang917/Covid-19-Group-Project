@@ -34,3 +34,13 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
   By analyzing the data from hospitalization and death rates compared to the tested positive for COVID-19, has the virus appeared to cause a more severe effect on the community?
   
   Did the time of vaccination correlate with the number of deaths in the hospital due to COVID-19?
+  
+## Machine Learning Model
+  
+  ** Description of preliminary data; preprocessing ✓ Description of preliminary feature engineering and preliminary feature; selection, including their decision-making process; Description of how data was split into training and testing sets; Explanation of model choice, including limitations and benefits ** 
+  
+## Dashboard
+
+  Tableau will be used as the main dashboard of the data analysis.
+  
+  ** Description of interactive element(s) **  
