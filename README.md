@@ -21,6 +21,8 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
   
 ## [Google Slides](https://docs.google.com/presentation/d/1AikBbD5WhO2oSrPKW-P_DM_hEYEP0Ak2Z516GCudWLo/edit#slide=id.p)
 
+  Actual Link: https://docs.google.com/presentation/d/1AikBbD5WhO2oSrPKW-P_DM_hEYEP0Ak2Z516GCudWLo/edit#slide=id.p
+
 ## Reason why they selected their topic
 
   We selected the topic of COVID-19, because we are currently in a situtation where there are still relatively high numbers of people with COVID-19.
