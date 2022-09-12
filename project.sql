@@ -30,7 +30,7 @@ SELECT Covid_hosp.specimen_date,
 	 Covid_deaths.Number_deaths
 	 
 FROM Covid_hosp
-JOIN Covid_deaths
+LEFT JOIN Covid_deaths
 ON Covid_hosp.specimen_batch_ID = Covid_deaths.specimen_batch_ID
 );
 
