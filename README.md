@@ -17,8 +17,6 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
   [Slack](https://slack.com/)
   ![Screenshot of Communication](https://github.com/ritawang917/Covid-19-/blob/Rita/Slack%20Communication.png)
   
-  Google Slides and Email
-
 ## Reason why they selected their topic
 
   We selected the topic of COVID-19, because we are currently in a situtation where there are still relatively high numbers of people with COVID-19.
