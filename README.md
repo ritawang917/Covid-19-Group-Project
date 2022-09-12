@@ -1,13 +1,3 @@
-# Covid-19-
-
-## Selected Topic
-
-  COVID-19
-  
-## Roles 
-
-Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
-
 ## Reason whywe selected  this topic
 
   We selected the topic of COVID-19, because we are currently in a situtation where there are still relatively high numbers of people with COVID-19.
