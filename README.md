@@ -7,17 +7,6 @@
 ## Roles 
 
 Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
-
-## Communication Protocal
-
-  [Slack](https://slack.com/)
-  ![Screenshot of Communication](https://github.com/ritawang917/Covid-19-/blob/Rita/Slack%20Communication.png)
-  
-  Zoom (both in class and outside of class)
-  
-  Google Slides (via the chat option)
-  
-  Email
   
 ## [Google Slides](https://docs.google.com/presentation/d/1AikBbD5WhO2oSrPKW-P_DM_hEYEP0Ak2Z516GCudWLo/edit#slide=id.p)
 
