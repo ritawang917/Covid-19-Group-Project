@@ -37,8 +37,6 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
 
   Does the number of COVID-19 patients hospitalized correlate with the average percentage of COVID-19 patients who passed away during hospitalization?
   
-  By analyzing the data can we predict the trend of people testing positive in NYC?
-
   By analyzing the data from hospitalization and death rates compared to the tested positive for COVID-19, has the virus appeared to cause a more severe effect on the community?
   
   Did the time of vaccination correlate with the number of deaths in the hospital due to COVID-19?
