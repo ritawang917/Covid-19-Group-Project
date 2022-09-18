@@ -6,7 +6,7 @@
   
 ## Roles 
 
-Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
+Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning)
   
 ## [Google Slides](https://docs.google.com/presentation/d/1AikBbD5WhO2oSrPKW-P_DM_hEYEP0Ak2Z516GCudWLo/edit#slide=id.p)
 
