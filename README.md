@@ -38,10 +38,10 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
   
   We used linear regression for the main data analysis as we predicted that the number of people who tested positive for COVID-19 will have a linear correlation with the number of deaths in the hosptial due to COVID-19; this was done by splitting the data of the number of people who tested positive for COVID-19 and the number of deaths in the hosptial due to COVID-19. The linear regression model had an accuracy score of 0.97 whereas when a random forest was created the accuracy score was 0.83. The benefit of using this specific model is that the variables do have a linear correlation; the linear regression helps to better visual this aspect. The limitation to this model is that there are only a few graphs that correlates with this model. The other graphs would require other models, for better analysis. For example, some graphs would be better suited for the quadratic regression or logistic regression model instead of the linear regression.
   
-## Dashboard
+## Dashboard (https://public.tableau.com/app/profile/julia.drobotya2624/viz/COVID-19_16634585629190/Story1)
 
   Tableau will be used as the main dashboard of the data analysis.
   
   Interactive elements such as the tables and graphs will be used in the Tableau dashboard. Some of the graphs are as shown below.
   
-  [Tableau](https://public.tableau.com/app/profile/julia.drobotya2624/viz/COVID-19_16634585629190/Story1)
+  Actual Tableau link: https://public.tableau.com/app/profile/julia.drobotya2624/viz/COVID-19_16634585629190/Story1
