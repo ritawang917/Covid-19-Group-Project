@@ -45,5 +45,3 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
   Interactive elements such as the tables and graphs will be used in the Tableau dashboard. Some of the graphs are as shown below.
   
   Link to Tableau Public https://public.tableau.com/shared/FKG8GZSBR?:display_count=n&:origin=viz_share_link
-  
-  ![COVID 19 -- Number Tested Postive VS Number of Deaths](https://github.com/ritawang917/Covid-19-/blob/Rita/COVID%2019%20--%20Number%20Tested%20Postive%20VS%20Number%20of%20Deaths.png)
