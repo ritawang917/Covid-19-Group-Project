@@ -44,4 +44,4 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning?)
   
   Interactive elements such as the tables and graphs will be used in the Tableau dashboard. Some of the graphs are as shown below.
   
-  Link to Tableau Public https://public.tableau.com/shared/FKG8GZSBR?:display_count=n&:origin=viz_share_link
+  Link to Tableau Public [https://public.tableau.com/shared/FKG8GZSBR?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/FKG8GZSBR?:display_count=n&:origin=viz_share_link)
