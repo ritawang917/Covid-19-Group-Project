@@ -107,4 +107,4 @@ The main objective of the machine learning analysis is to predict the corelation
  
   * Use a different data set that includes the most recently data
   * Test with additional machine learning models
-  * Use multiple data sets that make more conclusions
+  * Use multiple data sets that make more conclusions.
