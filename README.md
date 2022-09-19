@@ -4,6 +4,8 @@
 
   COVID-19
   
+  The novel coronavirus disease (COVID-19) is an infectious disease caused by SARS-CoV-2 which is a type of coronavirus discovered in 2019. Coronavirus pandemic was originated from China in December 2019, has resulted with over 604 Million cases and 6.5 Million deaths worldwide.
+  
 ## Roles 
 
 Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning)
