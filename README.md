@@ -54,13 +54,11 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning)
 
 ![](https://github.com/ritawang917/Covid-19-/blob/main/ERD.png)
 
-### Preprocessing 
+### [Preprocessing](https://github.com/ritawang917/Covid-19-/blob/main/project.sql)
 
 Below preprocessing operations were done on the original data before storing them into a database:
 
 Visual Studio Code was used to clean or compare python scripts as needed and was used to update the markdown. The Pandas library was used to clean the dataset.Uneccesary columns were dropped. The SQL database contains three tables, where specimen_batch_ID is our only primary key.We have two data sets, one set involving the number of deaths related to COVID-19 and another set involving the number of confirmed COVID-19 cases as well as the number of COVID-19 related patients in the hospital. After the data files were cleaned, they were imported into Postgres using SQL and then combined with SQL joins. To summarize the findings, the joined dataset was exported from PgAmin. At first we import the required packages to import, investigate and plot data: pandas, numpy and matplotlib.Our preliminary database consists of six columns and 176094 rows.
-
-[Link](https://github.com/ritawang917/Covid-19-/blob/main/project.sql)
   
 ## Machine Learning Model
 
