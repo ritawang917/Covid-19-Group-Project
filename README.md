@@ -60,13 +60,32 @@ Our dataset comes from NYC open data repository, Data Provided by Department of 
 
 Below preprocessing operations were done on the original data before storing them into a database:
 
-Visual Studio Code was used to clean or compare python scripts as needed and was used to update the markdown. The Pandas library was used to clean the dataset.Uneccesary columns were dropped. The SQL database contains three tables, where specimen_batch_ID is our only primary key. After the data files were cleaned, they were imported into Postgres using SQL and then combined with SQL joins. To summarize the findings, the joined dataset was exported from PgAmin. At first we import the required packages to import, investigate and plot data: pandas, numpy and matplotlib.Our preliminary database consists of six columns and 176094 rows.
+Visual Studio Code was used to clean or compare python scripts as needed and was used to update the markdown. The Pandas library was used to clean the dataset.Uneccesary columns were dropped. The SQL database contains three tables, where specimen_batch_ID is our only primary key.We have two data sets, one set involving the number of deaths related to COVID-19 and another set involving the number of confirmed COVID-19 cases as well as the number of COVID-19 related patients in the hospital. After the data files were cleaned, they were imported into Postgres using SQL and then combined with SQL joins. To summarize the findings, the joined dataset was exported from PgAmin. At first we import the required packages to import, investigate and plot data: pandas, numpy and matplotlib.Our preliminary database consists of six columns and 176094 rows.
 
 ![Link](https://github.com/ritawang917/Covid-19-/blob/main/project.sql)
   
 ## Machine Learning Model
+
+The main objective of the machine learning analysis is to predict the corelation between the features, based on selected features and choice of models.
+
+### Preliminary set of features
+
+ The features come with the dataset. These are indicators which the publishers believe to be the determinants of Covid-19, namely:
+- covid-testing specimens
+- the number of people tested
+- the number of people who were tested positive for COVID-19
+- the number of people who were hospitalized
+- the number of people who passed away in the hospital due to COVID-19.
   
-  We have two data sets, one set involving the number of deaths related to COVID-19 and another set involving the number of confirmed COVID-19 cases as well as the number of COVID-19 related patients in the hospital.
+  Our provisional model is Supervised Machine Learning for Regression. Because our database deals with labeled data, we have selected Supervised Machine Learning. We choose regression over classification, because this is a numerical data.
+  Our linear regression model for the number of people who were hospitalized and people who passed away in the hospital due to COVID-19 follows:
+  
+  ![]()
+  
+  After initializing and fitting the model with Linear regression the results are as follows:
+  
+  ![](https://github.com/ritawang917/Covid-19-/blob/main/ac.png)
+  
   
   We used pandas to clean and analyze the data. The data was cleaned by eliminating the extracted specimen column, changing the data type of the specimen data column to datetime data type, as well as assigning a specimen batch ID to each specimen date for better organization. From our data, we can conclude that there is a linear correlation between the number of people tested positive for COVID-19 and the number of deaths in the hospital. Additionally, the data shows that around late November of 2020, there was a peak of deaths associated with COVID-19; from this point onwards the number of COVID-19 related deaths decreased. The COIVD-19 vaccination was released around the end of 2020, which we can use to infer that the number of deaths due to COVID-19 dropped because the vaccination helped decrease the severity of the symptoms people were experiencing. During this time, quarantine regulations was also strict, which would also be used to infer that quarantine may have also influenced the drop of deaths related to COVID-19 as less people came in contact with people who have COVID-19.
   
