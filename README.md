@@ -21,6 +21,8 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning)
 
 ## Description of their source of data
 
+Our dataset comes from NYC open data repository, Data Provided by Department of Health and Mental Hygiene (DOHMH).The dataset shows outcomes (confirmed cases, hospitalizations, and deaths) for cohorts defined by each date of specimen collection (specimen_date). For example, if a NYC resident tested positive for SARS-CoV-2 and was subsequently hospitalized, both events would show under the same specimen_date, indicating the date of specimen collection for the positive test and not the date of the hospitalization.
+
   The data consists of covid-testing specimens, the extracted date of the specimen results, the number of people tested, the number of people who were tested positive for COVID-19, the number of COVID-19 people who were hospitalized, as well as the number of people who passed away in the hospital due to COVID-19.
 
 
@@ -31,6 +33,22 @@ Square: Rita; Triangle: Julia; Circle: Sharmin (Supervised Machine Learning)
   By analyzing the data from hospitalization and death rates compared to the tested positive for COVID-19, has the virus appeared to cause a more severe effect on the community?
   
   Did the time of vaccination correlate with the number of deaths in the hospital due to COVID-19?
+  
+## Resources
+
+### Data Cleaning and Analysis
+
+- Python
+- Jupyter Notebook
+- Matplotlib
+
+### Database Storage
+
+- PostgreSQL/pgAdmin4
+
+### Machine Learning
+
+- SciKitLearn - supervised machine learning models
   
 ## Machine Learning Model
   
