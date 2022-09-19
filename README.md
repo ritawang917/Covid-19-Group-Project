@@ -1,10 +1,10 @@
 # Covid-19
 
-## Selected Topic
+## Selected Topic-Covid-19
 
-  COVID-19
-  
-  The novel coronavirus disease (COVID-19) is an infectious disease caused by SARS-CoV-2 which is a type of coronavirus discovered in 2019. Coronavirus pandemic was originated from China in December 2019, has resulted with over 604 Million cases and 6.5 Million deaths worldwide.
+## Purpose of the Project
+
+The novel coronavirus disease (COVID-19) is an infectious disease caused by SARS-CoV-2 which is a type of coronavirus discovered in 2019. Coronavirus pandemic was originated from China in December 2019, has resulted with over 604 Million cases and 6.5 Million deaths worldwide. With Covid-19 pandemic, we are in a world crisis likes of which hasn’t been seen in 100 years.The enormous scale of the crisis and the impact it is having are naturally causing a lot of fear, uncertainty and anxiety across the world.This situation is particularly stressful because,we cann't predict how things will develop.There is always an uncertainty of our circumstances.The purpose of this project is to evalute various characteristic from New York City COVID-19 dataset to identify the key findings of the data.
   
 ## Roles 
 
@@ -49,6 +49,20 @@ Our dataset comes from NYC open data repository, Data Provided by Department of 
 ### Machine Learning
 
 - SciKitLearn - supervised machine learning models
+
+## DataBase
+
+### SQL
+
+![](https://github.com/ritawang917/Covid-19-/blob/main/ERD.png)
+
+### Preprocessing 
+
+Below preprocessing operations were done on the original data before storing them into a database:
+
+Visual Studio Code was used to clean or compare python scripts as needed and was used to update the markdown. The Pandas library was used to clean the dataset.Uneccesary columns were dropped. The SQL database contains three tables, where specimen_batch_ID is our only primary key. After the data files were cleaned, they were imported into Postgres using SQL and then combined with SQL joins. To summarize the findings, the joined dataset was exported from PgAmin. At first we import the required packages to import, investigate and plot data: pandas, numpy and matplotlib.Our preliminary database consists of six columns and 176094 rows.
+
+![Link](https://github.com/ritawang917/Covid-19-/blob/main/project.sql)
   
 ## Machine Learning Model
   
