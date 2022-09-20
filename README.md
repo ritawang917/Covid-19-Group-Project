@@ -87,6 +87,7 @@ The main objective of the machine learning analysis is to predict the corelation
   
   We used linear regression for the main data analysis as we predicted that the number of people who tested positive for COVID-19 will have a linear correlation with the number of deaths in the hosptial due to COVID-19; this was done by splitting the data of the number of people who tested positive for COVID-19 and the number of deaths in the hosptial due to COVID-19. The linear regression model had an accuracy score of 0.97 whereas when a random forest was created the accuracy score was 0.83. The benefit of using this specific model is that the variables do have a linear correlation; the linear regression helps to better visual this aspect. The limitation to this model is that there are only a few graphs that correlates with this model. The other graphs would require other models, for better analysis. For example, some graphs would be better suited for the quadratic regression or logistic regression model instead of the linear regression.
   
+ ![Screen Shot 2022-09-19 at 8 09 19 PM](https://user-images.githubusercontent.com/103322251/191140276-b35440aa-a425-4634-bcc4-1e8bb8e80613.png) 
 ## [Dashboard](https://public.tableau.com/app/profile/julia.drobotya2624/viz/COVID-19_16634585629190/Story1)
 
   Tableau will be used as the main dashboard of the data analysis.
