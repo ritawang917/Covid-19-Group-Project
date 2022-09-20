@@ -72,11 +72,13 @@ The main objective of the machine learning analysis is to predict the corelation
     * the number of people who were tested positive for COVID-19
     * the number of people who were hospitalized
     * the number of people who passed away in the hospital due to COVID-19.
+    
+    ![](https://github.com/ritawang917/Covid-19-/blob/main/feature%20selection.png)
   
   Our provisional model is Supervised Machine Learning for Regression. Because our database deals with labeled data, we have selected Supervised Machine Learning. We choose regression over classification, because this is a numerical data.
   Our linear regression model for the number of people who were hospitalized and people who passed away in the hospital due to COVID-19 follows:
   
-  ![]()
+  ![](https://github.com/ritawang917/Covid-19-/blob/main/linear.png)
   
   After initializing and fitting the model with Linear regression the results are as follows:
   
@@ -84,6 +86,8 @@ The main objective of the machine learning analysis is to predict the corelation
   
   
   We used pandas to clean and analyze the data. The data was cleaned by eliminating the extracted specimen column, changing the data type of the specimen data column to datetime data type, as well as assigning a specimen batch ID to each specimen date for better organization. From our data, we can conclude that there is a linear correlation between the number of people tested positive for COVID-19 and the number of deaths in the hospital. Additionally, the data shows that around late November of 2020, there was a peak of deaths associated with COVID-19; from this point onwards the number of COVID-19 related deaths decreased. The COIVD-19 vaccination was released around the end of 2020, which we can use to infer that the number of deaths due to COVID-19 dropped because the vaccination helped decrease the severity of the symptoms people were experiencing. During this time, quarantine regulations was also strict, which would also be used to infer that quarantine may have also influenced the drop of deaths related to COVID-19 as less people came in contact with people who have COVID-19.
+  
+  ![](https://github.com/ritawang917/Covid-19-/blob/main/specimen.png)
   
   We used linear regression for the main data analysis as we predicted that the number of people who tested positive for COVID-19 will have a linear correlation with the number of deaths in the hosptial due to COVID-19; this was done by splitting the data of the number of people who tested positive for COVID-19 and the number of deaths in the hosptial due to COVID-19. The linear regression model had an accuracy score of 0.97 whereas when a random forest was created the accuracy score was 0.83. The benefit of using this specific model is that the variables do have a linear correlation; the linear regression helps to better visual this aspect. The limitation to this model is that there are only a few graphs that correlates with this model. The other graphs would require other models, for better analysis. For example, some graphs would be better suited for the quadratic regression or logistic regression model instead of the linear regression.
   
