@@ -105,6 +105,8 @@ The main objective of the machine learning analysis is to predict the corelation
 
   From our linear regression machine learning model, which has an accuracy score of 0.97, we can see that there is a positive correlation between the number of COVId-19 patients in the hospital and the number of deaths in the hospital related to COVID-19. This result was expected, because as there is an increase in people who are tested positive in the hospital, it is more likely for others to be infected which may increase the severity of the symptoms. Our results also showed that there was not a significant change right after the introduction of COVID-19 vaccines, as the number of people tested positive still increased; however after about 6 months of the vaccination introduction there was a slight decrease. However, the data collection stopped shortly after this time, limiting the conclusion we can make regardining whether or not vaccination helped decrease the severity of the pandemic. Additionally, this helped conclude that there was no correlation between the introduction of the vaccination and the number of deaths at the hospital based on the current data set we have.
   
+![](https://github.com/ritawang917/Covid-19-/blob/main/Screenshot%20(2034).png)
+  
  ## Recommendations for Future Analysis
  
   * Analyze the meaning behind the data set prior to cleaning and conducting machine learning
